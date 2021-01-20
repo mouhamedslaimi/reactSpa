@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactSpa/static/css/main.54f16876.chunk.css",
+    "main.js": "/reactSpa/static/js/main.7c394faa.chunk.js",
+    "main.js.map": "/reactSpa/static/js/main.7c394faa.chunk.js.map",
+    "runtime-main.js": "/reactSpa/static/js/runtime-main.2de597d0.js",
+    "runtime-main.js.map": "/reactSpa/static/js/runtime-main.2de597d0.js.map",
+    "static/css/2.150d169a.chunk.css": "/reactSpa/static/css/2.150d169a.chunk.css",
+    "static/js/2.2e8f948b.chunk.js": "/reactSpa/static/js/2.2e8f948b.chunk.js",
+    "static/js/2.2e8f948b.chunk.js.map": "/reactSpa/static/js/2.2e8f948b.chunk.js.map",
+    "index.html": "/reactSpa/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/reactSpa/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.54f16876.chunk.css.map": "/reactSpa/static/css/main.54f16876.chunk.css.map",
+    "static/js/2.2e8f948b.chunk.js.LICENSE.txt": "/reactSpa/static/js/2.2e8f948b.chunk.js.LICENSE.txt",
+    "static/media/bar.8783f878.jpg": "/reactSpa/static/media/bar.8783f878.jpg",
+    "static/media/walking.98fd0584.jpg": "/reactSpa/static/media/walking.98fd0584.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2de597d0.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2e8f948b.chunk.js",
+    "static/css/main.54f16876.chunk.css",
+    "static/js/main.7c394faa.chunk.js"
+  ]
+}
